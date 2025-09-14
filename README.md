@@ -1,1 +1,9 @@
+ ## Bank Churn Analysis Dashboard
 
+This project focuses on analyzing customer churn in a bank and identifying key factors that influence customer retention. Using Power BI, I designed an interactive dashboard that highlights churn rate, customer demographics, country-wise distribution, and behavioral patterns. The dataset used in this project includes information such as customer ID, surname, age, gender, credit score, balance, tenure, number of products, credit card ownership, active member status, estimated salary, total customers, lost customers, and churn rate. These fields were used to create KPIs and visualizations that provide a clear picture of customer churn.
+
+The dashboard displays several important insights. It shows KPIs like total customers, number of lost customers, and overall churn rate. Country-wise and gender-based analyses provide insights into customer distribution, while churn by age groups highlights which age ranges are more likely to leave. Visuals also explore churn behavior by credit card ownership, customer activity status (active vs. inactive), and country-level churn comparisons. Together, these views help to identify customer segments that are at higher risk of churn and give a better understanding of retention challenges.
+
+This dashboard was built entirely in Power BI Desktop, with the dataset provided in CSV/Excel format. After cloning the repository, users can open the .pbix file in Power BI to explore the visuals and interact with the data. I have also included a screenshot of the dashboard for a quick preview. In the future, I plan to extend this project by adding predictive modeling in Python (such as Logistic Regression or Random Forest) to forecast customer churn and possibly deploy the solution online using Streamlit or Power BI Service.
+
+This project reflects my interest in data analysis and visualization, particularly in solving real-world business problems such as customer retention.
