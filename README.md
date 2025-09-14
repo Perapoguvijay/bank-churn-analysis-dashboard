@@ -42,6 +42,8 @@ How to Use
 
 Download the https://github.com/Perapoguvijay/bank-churn-analysis-dashboard/blob/main/Bank%20Churn%20Analysis.pbix file from this repository.
 
+ScreenShort : https://github.com/Perapoguvijay/bank-churn-analysis-dashboard/commit/aa60b483f7bd1d9d460304e3aef05862f6a3fe9f
+
 Open it in Power BI Desktop.
 
 
