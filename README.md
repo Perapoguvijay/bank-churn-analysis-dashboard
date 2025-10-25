@@ -8,7 +8,7 @@ This project analyzes customer churn in a bank to identify patterns and factors 
 
 Designed and developed an interactive dashboard in Power BI to analyze bank customer churn.
 
-Created KPIs such as Total Customers, Lost Customers, and Churn Rate for quick insights.
+Created KPIs such as Total Customers, Lost Customers, and Churn Rate for quick insights. 
 
 Visualized churn patterns by age group, gender, geography, credit score, and customer activity status.
 
